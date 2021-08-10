@@ -1,0 +1,5 @@
+MÉDIAS DOS ALUNOS
+O aluno Felipe está com a média 6.5.
+O aluno Iasmim está com a média 9.75.
+O aluno Fabricia está com a média 8.5.
+O aluno Cesar está com a média 6.75.
